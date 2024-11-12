@@ -4,7 +4,7 @@ A clone of the popular streaming service Netflix, built using [your tech stack, 
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,9 +12,7 @@ A clone of the popular streaming service Netflix, built using [your tech stack, 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
 
-Check out the live demo of the Netflix clone [here](https://example.com).
 
 ## Features
 
