@@ -1,11 +1,16 @@
 # Netflix Clone
 
-A clone of the popular streaming service Netflix, built using [your tech stack, e.g., React, Node.js, Express, MongoDB, etc.]. This project is for educational purposes and demonstrates the implementation of various features like user authentication, movie browsing, and video streaming.
 
-## Table of Contents
-
-
-- [Features](#features)
+Overview
+This project is a Netflix clone built using React.js, designed to enhance skills in web development. It features a fully interactive user interface with various functionalities, making it a comprehensive movie-watching experience. The project is powered by TMDB API, utilizing Firebase for database management.
+# Technologies Used
+1.React.js
+2.TMDB API
+3.Firebase
+4.Axios
+5.Swiper.js
+6.React-Youtube
+7.Tailwind CSS
 
 
 
@@ -18,4 +23,5 @@ A clone of the popular streaming service Netflix, built using [your tech stack, 
 - View movie/TV show details
 - Watch trailers
 - User profiles
-
+Link to the Site
+Netflix Clone
