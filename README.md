@@ -25,12 +25,20 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 
 # Key Functionalities
 -Sign In / Sign Up
+
 -Home Page for browsing movies
+
 -My List Section for user-specific movie selections
+
 -Liked Movies Page
+
 -Watched Movies Page
+
 -Profile Page
+
 -Play Movie Page
+
 -Search Movie Page
+
 # Link to the Site
   https://netflicz-reactjs-rho.vercel.app/
