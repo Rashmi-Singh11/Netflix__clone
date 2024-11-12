@@ -6,11 +6,7 @@ A clone of the popular streaming service Netflix, built using [your tech stack, 
 
 
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 
 
@@ -23,10 +19,3 @@ A clone of the popular streaming service Netflix, built using [your tech stack, 
 - Watch trailers
 - User profiles
 
-## Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
