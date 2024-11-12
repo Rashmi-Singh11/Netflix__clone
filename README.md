@@ -15,13 +15,16 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 
 
 
-## Features
 
-- User authentication (sign up, login, logout)
-- Browse movies and TV shows
-- Search for movies and TV shows
-- View movie/TV show details
-- Watch trailers
-- User profiles
-Link to the Site
-Netflix Clone
+
+# Key Functionalities
+-Sign In / Sign Up
+-Home Page for browsing movies
+-My List Section for user-specific movie selections
+-Liked Movies Page
+-Watched Movies Page
+-Profile Page
+-Play Movie Page
+-Search Movie Page
+# Link to the Site
+   Netflix Clone
