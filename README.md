@@ -27,4 +27,4 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 -Play Movie Page
 -Search Movie Page
 # Link to the Site
-   Netflix Clone
+  https://netflicz-reactjs-rho.vercel.app/
